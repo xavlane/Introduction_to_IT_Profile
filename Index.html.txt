@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html style="background-color:PowderBlue;">
+<head>
+<title>Personal Information</title>
+</head>
+<bodystyle>
+
+<h1 style="text-align:center;">Personal Information</h1>
+<p>- Name -Xavier Lane</p>
+<p>-	Student Number -S3924090</p>
+<p>-	Student Email - S3924090@student.rmit.edu.au</p>
+<p>-	I am an Australian citizen who has lived in Australia his whole life.</p>
+<p>-	My spoken language is English only.</p>
+<p>-	I enjoy gaming, both tabletop and video games. I have played in tournaments across the country for card games and across the state for various video games.</p>
+<p>-	I have finished year 11 in high school but then left to become a carpenter. After working as an apprentice carpenter for a while I decided I wanted a career change and when into teacher’s aide work, where I started a teaching degree but realized the industry was not what I wanted for my career.</p>
+
+<img src="https://dm2305files.storage.live.com/y4mtrKyCqw1DjSb1y41rooSg5DrOJ9sNtwZi0oMQFB0m863qlhJeuSiBn1a8C6_lOuhZL9wC2uNQF8S2XYgMmya3O_3oszIC3WsNQLePDLRuAvxtUPU7blikHpGT8-ltinuM9ecTrLKkluJui3RrnTZdG7OBz6kE8VfJEn3L8p7c8EsX_tubyvVaAvrOToJ7k4x?width=3024&height=4032&cropmode=none"alt="Image of me" width="500" height="600"">
+
+</body>
+
+<head>
+<title>Interest in IT</title>
+</head>
+<body>
+
+<h1 style="text-align:center;">Interest in IT</h1>
+<p style="text-align:center;">After leaving my teaching course I started to become interested in the IT industry, as many of my friends are a part of the industry. I waited some time before making a commitment to study as I felt I went into teaching to hastily. However, over a couple of years looking into IT and the friends who were working in the industry I decided to take the steps to joining the industry and enroll in a Bachelor of Information Technology.</p>
+<p style="text-align:center;">I do not have any formal experience in IT; however, I do take an interest in IT and work very closely with the IT coordinator at the school I work at, who often comes to me with questions of how to do certain tasks. Whilst I have no formal experience, I am not going to be discouraged by this because I am determined to have a formal education in the IT industry. I am aiming to complete a Bachelor of Information Technology and I am very excited to do so.</p>
+<p style="text-align:center;">I chose RMIT because I had heard good things about them. They were also offering a course that suited my needs. RMIT is often talked about in very high regards, so when I was looking to enter a course to get the qualifications I wanted, RMIT was the first place I looked at. I decided to enroll in RMIT with a friend which made an exciting experience out of the enrollment procedure.</p>
+<p style="text-align:center;">During my studies in RMIT, I hope to learn about coding and the fundamentals of the IT industry. I am currently enrolled in two courses that are really suited to what I hope to learn. The first being Introduction to Information Technology and the second being Introduction to Programming. These are the first two courses I am completing on my way to obtaining a Bachelor of Information Technology.</p>
+
+</body>
+
+<head>
+<title>Ideal Job</title>
+</head>
+<body>
+
+<h1 style="text-align:center;">Ideal Job</h1>
+<img src="https://dm2305files.storage.live.com/y4maVK1pYjJ41pjNkJAOnYyrRV0PE4u3OQghbCwsBhLqSeulNKIwN66t9uOHZatyTYVX8nf9-eBDX7DTA-eCSTr_shp2igEEfDjOdoGK4GH0orIdYZHTd8JF9LNMd2upww-QxbbLtsBJIVlWdbrs-kH-NZ4adutM4QFQlz4_eFzPuYlpfbQp7tJY-V420XS57Cp?width=1908&height=973&cropmode=none" alt="Image of Job Screenshot" width="600" height="300">
+<a href="https://www.seek.com.au/job/53743331?type=standard#searchRequestToken=3b58f50b-5382-4667-a695-ec858bd2c7a0">ICT support officer</a>
+<p style="text-align:center;">The ideal job for me is to be an ICT Support Officer. The position is only a 6-month contract; however, I am looking at this job or similar roles with more permanent positions. There were none available when I was looking through job listings so this is the closest, I could find. The role asks that the employee hired is responsible for managing and maintaining the ICT systems of the New South Wales government agency. Whilst I currently live in Melbourne, I have many friends who live in NSW and would not mind the change of residential address. The role asks for Installation and maintenance of the organizations ICT network. This involves the oversight of Information and Communication Technology that is used to connect the organization with their patrons. The job listing also asks that any issues that arise with the organizations ICT systems is handled and fixed by the person or people given the role. This job appeals to me as there is a wide range of technical support that goes into an organization of this size. They ask that multiple different tasks be done, and this would give me different experiences across a wide range of situations. I also am interested in the role’s connectedness with the rest of the organization as I am a person who enjoys meeting new people and developing personal connections in the workplace. The support given from the ICT Support Officer in the organization would allow me to meet lots of people in the organization, whether they are part of the ICT team or not, whilst working in a field suited to me.</p>
+<p style="text-align:center;">The requirements for the position of ICT Support Officer include at least 2 years of experience in a technical support role. Knowledge of Windows Server Administration. The Employee would need to be confident in the use of OneDrive, SharePoint and Office 365. The employee, as a supporting role in the organization would need to understand and identify network and server issues while also being able to provide and advise members of the organization on solutions to any issues that arise. The ICT Support Officer also needs to understand scripting basics, and system configuration of the organizations network and equipment. This would include maintenance, instillation and development of the organizations technology systems.</p>
+<p style="text-align:center;">Whilst previously stated, I have no formal qualifications yet. I do however have experience supporting an organization in the IT field as more of a background member of my current workplaces IT department. They have asked me previously to give support based on my own informal qualifications. I am familiar with the use of OneDrive and have had experience in explaining, advising and solving technical issues that have arisen in my workplace throughout the 4 years working there.</p>
+<p style="text-align:center;">The plan to gain the formal qualifications is to complete my Bachelor of Information Technology to gain an understanding of systems administration, and many of the technological issues that could arise in a workplace such as this. If there were any outstanding skills that need obtaining for the position, I would be more than happy to take up extra courses whilst gaining experience in the IT industry to meet the 2-year quota that the position is asking for. This could be an entry level ICT support job working under an ICT Support Officer to gain the experience I need and would be relevant to the career opportunity I have chosen.</p>
+
+<body>
+
+<head>
+<title>Personal Profile</title>
+</head>
+<body>
+
+
+<h1 style="text-align:center;">Personal Profile</h1>
+<h2 style="text-align:center;">Personality Test</h2>
+<p style="text-align:center;">According to the Myers-Briggs personality test at <a href="www.16personalities.com"> (Introduction | Mediator (INFP) Personality | 16Personalities, 2021)</a> my personality style is that of the mediator (INFPs). People with these personality traits are people who respond with a strong connection to music and art. They are sensitive, creative and imaginative and who often create stories in their heads about the world around them. Mediators are often empathetic and look to help others. The mediator personality type often feels alone and lost in their lives as they are always looking to help others but rarely is someone of the same personality type looking to help them in the same way. Mediators are empathetic and generous, with a caring and open-minded personality. The downsides to the mediator personality type are that they are often unrealistic in their ideals and tend to self-isolate, which is a leading factor in their feelings of loneliness. The mediator personality is also quite self-critical of their achievements, and this causes them to feel lost and as though they are not achieving the things, they care want.</p>
+<p style="text-align:center;">The results of this test are quite accurate to me as a person. I often think of others more than I think of myself and am always looking to solve other people’s problems before my own. This is often because I am very critical of myself and feel as though I am not good enough at whatever I am doing. I look to solve other people’s problems as trying to solve my own often makes me feel inadequate and that I am failing at what I am trying to achieve. In a group setting this may lead me to be more than ready to help the people I work with at a moments notice, however when I need help, I may be reluctant to ask in order to maintain my confidence and hope that I can solve the issue on my own. Inevitably this could lead to a lot of self-doubt and concern about my own abilities to complete the tasks required of me. When looking for a team I should try and find people who similarly want to help others as this will support me when I am reluctant to ask. I should also look for people who are offering help and are confident in their abilities so that when we are working together there is not too much self-criticism in the team that the entire team is not confident about the project that we are working on.</p>
+<h2 style="text-align:center;">Learning Style Test</h2>
+<p style="text-align:center;">Taking a learning style test with <a href="https://www.how-to-study.com/learning-style-assessment/"> (Tactile/Kinesthetic Learner, 2021)</a> gave me the result of a tactile/kinesthetic style of learning. Study tips for people of this learning style include physical activity during your study, listening to music and studying in short bursts with frequent breaks. There is evidence to support these tactics for study as physicality is the primary attribute of a tactile learning style. People who learn this way often learn by having physical objects or activities that will distract their body while their brain is active as an urge to fidget is a constant battle for this learning type to deal with. Music playing in the background as people with this learning style study also alleviates this urge to fidget as with the distraction of music helps focus the mind on the task at hand and gives the person something that they can quickly shift their focus between. These options being music and study. Another option for study is to take breaks regularly as the urge to fidget will become an inevitable distraction if not dealt with. The use of regular breaks in study allows the person to leave and come back to study with a refreshed focus as mental fatigue is a common occurrence for people of this learning style.</p>
+<p style="text-align:center;">This test is an accurate portrayal of me as a student. I need to understand that I often lose focus and fidget when I am trying to concentrate. I need to use the strategies laid out in this test as ways to regain my focus and work in an efficient manner. When I am looking for a group this should be something I am aware of and that I will need to inform my team on. Working in bursts is my best course of action as I do feel a noticeable difference when I am losing focus. Taking a break for a short time in order to refresh my mental energy works for me and leads me to getting the most out of my study and work sessions. If I have a group who works similarly to me then we can schedule breaks for the team around similar times so that we are on the same timetable and are all coming back ready to work and participate in a group.</p>
+<h2 style="text-align:center;">Creativity Test</h2>
+<p style="text-align:center;">Taking a creativity test with <a href="https://www.mindtools.com/">(How Creative Are You?:, 2021)</a> I was given a score of 48. This score indicates that as a creative person I am coming up with ideas but giving up on them and not following through to their fullest potential. This test gave me an idea that when I am being creative, I need to look at what it is that I am pursuing, and I need to focus and follow through even if there are problems that get in the way of completion. There is a need to share and express my ideas with the people around me so that I can get feedback and discuss issues that arise in order to push past them for the sake of the project that I am working on.</p>
+<p style="text-align:center;">Whilst this test has a feeling of simplicity to it, I feel that this was a crucial test to take. The assignments given to me focus around presenting a project. The creative aspect of this is a definite factor when working in a group setting. I need to realize that when issues arise, I often lose confidence as outlined by my personality test results. The creativity test supports this claim and I need to work on my ability to ask for help and come to others with my concerns. When I form a group to work with, I should be looking for people who are willing to offer help and participate in shared work. When I am in a group I will need to focus on the ideas that I have and work towards completing them even when there are problems that need solving.</p>
+
+</body>
+
+<head>
+<title>References</title>
+</head>
+<body>
+
+<h1 style="text-align:center;">References</h1>
+<p style="text-align:center;">How-To-Study.com. 2021. Tactile/Kinesthetic Learner. [online] Available at: <https://www.how-to-study.com/study-skills-articles/tactile-kinesthetic-learner.asp> [Accessed 6 September 2021].</p>
+<p style="text-align:center;">Mindtools.com. 2021. How Creative Are You?:. [online] Available at: <https://www.mindtools.com/pages/article/creativity-quiz.htm> [Accessed 6 September 2021].</p>
+<p style="text-align:center;">16Personalities. 2021. Introduction | Mediator (INFP) Personality | 16Personalities. [online] Available at: <https://www.16personalities.com/infp-personality> [Accessed 6 September 2021].</p>
+
+</body>
+</html>
